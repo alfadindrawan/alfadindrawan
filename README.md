@@ -1,7 +1,11 @@
 👋 Hi, I’m @alfadindrawan
+
 👀 I’m interested in being a web developer and mobile developer
+
 🌱 I’m currently learning everything 
+
 💞️ I’m looking to collaborate with other peoples
+
 ⚡ Fun fact: I love playing game
 
 <!---
