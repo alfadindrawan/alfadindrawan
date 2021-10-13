@@ -1,6 +1,6 @@
 👋 Hi, I’m @alfadindrawan
 
-👀 I’m interested in being a web developer and mobile developer
+👀 I’m interested in being a web developer
 
 🌱 I’m currently learning everything 
 
