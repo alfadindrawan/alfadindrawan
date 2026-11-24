@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate with other peoples
 
-⚡ Fun fact: I love playing game and playing guitar
+⚡ I love playing game, guitar, badminton, joging and watching movie
 
 <!---
 alfadindrawan/alfadindrawan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
